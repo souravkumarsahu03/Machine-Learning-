@@ -15,6 +15,7 @@ Machine larning is the branch of computer science or data science where it takes
 * Image Processing
 * OpenCV / Video Processing
 * NLP - Natural Language Processing
+* Data Preprocessing
 * To be continued(Learning....)
 
 # Key Applications
